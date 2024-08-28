@@ -2,16 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-26T08:17:45 PDT" name="Default suite" finished-at="2024-08-26T08:18:59 PDT" duration-ms="73996">
+  <suite started-at="2024-08-26T12:25:18 PDT" name="Default suite" finished-at="2024-08-26T12:25:38 PDT" duration-ms="20328">
     <groups>
     </groups>
-    <test started-at="2024-08-26T08:17:45 PDT" name="Default test" finished-at="2024-08-26T08:18:59 PDT" duration-ms="73996">
-      <class name="MTV22.webkl">
-        <test-method signature="example()[pri:0, instance:MTV22.webkl@479d31f3]" started-at="2024-08-26T08:17:45 PDT" name="example" finished-at="2024-08-26T08:18:59 PDT" duration-ms="73904" status="PASS">
+    <test started-at="2024-08-26T12:25:18 PDT" name="Default test" finished-at="2024-08-26T12:25:38 PDT" duration-ms="20328">
+      <class name="MTV30.Assertion">
+        <test-method is-config="true" signature="setup()[pri:0, instance:MTV30.Assertion@5b239d7d]" started-at="2024-08-26T12:25:18 PDT" name="setup" finished-at="2024-08-26T12:25:21 PDT" duration-ms="2696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="example()[pri:0, instance:MTV30.Assertion@5b239d7d]" started-at="2024-08-26T12:25:21 PDT" name="example" finished-at="2024-08-26T12:25:38 PDT" duration-ms="17581" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- example -->
-      </class> <!-- MTV22.webkl -->
+      </class> <!-- MTV30.Assertion -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
